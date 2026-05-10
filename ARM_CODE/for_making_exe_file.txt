@@ -1,0 +1,13 @@
+open the filexplorer and go to the directory where the micro.py is located and then type "cmd" in the address bar. then run this code given below 
+
+
+
+
+pyinstaller --onedir --add-data "C:\Users\DELL\AppData\Local\Programs\Python\Python311\Lib\site-packages\mediapipe\modules;mediapipe\modules" micro.py
+
+
+
+for with logo
+
+
+pyinstaller --onefile --add-data "C:\Users\DELL\AppData\Local\Programs\Python\Python311\Lib\site-packages\mediapipe\modules;mediapipe\modules" --icon=myicon.ico micro.py

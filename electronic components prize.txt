@@ -1,0 +1,39 @@
+Arduino uno - 2500
+
+servo(x4) - 760
+
+servo driver - 590 
+
+dc adapter - 170
+
+jumper wires(40 pieces) - 150
+
+breadboard - 240
+
+robotic arm - 750
+
+voltage regulator
+-----------------
+
+ic lm7805 - 50
+
+1000uf 25v electrolytic capacitor - 15
+
+2200uf 16v electrolytic capacitor - 15
+
+104 pf ceramic capacitor(2 pieces) - 2
+
+2 pin terminal block(2 pieces) - 10
+
+resistor 10k ohm - 3
+
+led green - 1 
+
+12 volt female socket - 20
+
+
+
+
+TOTAL - - - - 5276
+
+ 

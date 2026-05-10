@@ -1,0 +1,27 @@
+1: (1) EBA_01.00.001.STL   
+
+2: (1) EBA_01.00.002_vertical_drive_arm.STL  
+
+3: (3) EBA_01.00.003_link.STL  
+
+4: (1) EBA_01.00.004_forward_drive_arm.STL  
+
+5: (1) EBA_01.00.005_horizontal_arm.STL  
+
+6: (1) EBA_01.00.006_triangular_link.STL  
+
+7: (2) EBA_01.00.009_servo_plate.STL  
+
+8: (1) EBA_01.00.010_basement.STL  
+
+9: (1) EBA_01.00.011_round_plate.STL  
+
+10: (1) EBA_01.00.012_R01_claw_support.STL  
+
+11: (1) EBA_01.00.013_R01_right_finger.STL  
+
+12: (1) EBA_01.00.014_R01_left_finger.STL  
+
+13: (1) EBA_01.00.015_drive_gear.STL  
+
+14: (1) EBA_01.00.016_R01_driven_gear.STL   

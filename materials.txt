@@ -1,0 +1,55 @@
+
+
+1: n°1 EBA_01.00.001.STL   OK
+
+5: n°1 EBA_01.00.002_vertical_drive_arm.STL  OK
+
+8: n°3 EBA_01.00.003_link.STL  OK
+
+10: n°1 EBA_01.00.004_forward_drive_arm.STL  OK
+
+4: n°1 EBA_01.00.005_horizontal_arm.STL  OK
+
+9: n°1 EBA_01.00.006_triangular_link.STL  OK
+
+14: n°2 EBA_01.00.009_servo_plate.STL  OK
+
+6: n°1 EBA_01.00.010_basement.STL  OK
+
+13: n°1 EBA_01.00.011_round_plate.STL  OK
+
+3: n°1 EBA_01.00.012_R01_claw_support.STL  OK
+
+12: n°1 EBA_01.00.013_R01_right_finger.STL  OK
+
+11: n°1 EBA_01.00.014_R01_left_finger.STL  OK
+
+7: n°1 EBA_01.00.015_drive_gear.STL  OK
+
+2: n°1 EBA_01.00.016_R01_driven_gear.STL   OK
+
+
+
+n* 3 Tower Pro MG90S servos
+
+n* 1 SG90 servo (gripper) + 1 optional for the loop ramp
+
+n° 7 M4 self locking nuts
+
+n° 15 M4 washers
+
+n° 7 M3 nuts
+
+n° 1 M3 x 30 screw
+
+n° 2 M3 washers
+
+n° 4 M3 x 12 hex screw
+
+n° 2 M3 x 12 TCEI screw
+
+n° 2 M3 x 20 TCEI screw
+
+n° 5 M4 x 20 round hed hex recess screw
+
+n° 1 brass pipe 4 x 3 x 22 + n°1 4 x 3 x 26   OK
